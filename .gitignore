@@ -1,0 +1,6 @@
+.gradle
+.idea
+NestDemoApp.iml
+build
+local.properties
+.DS_Store
